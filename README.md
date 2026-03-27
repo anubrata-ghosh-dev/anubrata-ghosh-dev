@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**anubrata-ghosh-dev/anubrata-ghosh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=55&duration=3500&pause=300&color=00d9ff&center=true&vCenter=true&width=1000&lines=Hey%2C+I+am+Anubrata+Ghosh;Information+Technology+Student;Dr.+B.C.+Roy+Engineering+College%2C+Durgapur;Interested+in+Software+and+Programming;Always+Learning+and+Building;" alt="Typing SVG" />
+</a>
+  </p>
+</br>
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anubrata-ghosh-dev&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub streak](https://streak-stats.demolab.com?user=anubrata-ghosh-dev&theme=dark)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anubrata-ghosh-dev&layout=compact&theme=dark)
+
+---
