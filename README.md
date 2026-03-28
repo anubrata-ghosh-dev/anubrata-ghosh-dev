@@ -27,7 +27,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/anubrata-ghosh-980024385/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:study.anubrataghosh@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Anubrata%2C%20I%20saw%20your%20profile" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" alt="mail" height="50" width="50" /></a>
+<a href="mailto:work+study.anubrataghosh@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Anubrata%2C%20I%20saw%20your%20profile" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" alt="mail" height="50" width="50" /></a>
   
 </p>
 
